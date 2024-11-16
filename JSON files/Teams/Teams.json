@@ -4,52 +4,88 @@
       "title": "Group-1",
       "members": [
         {
+          "id": 1,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 2,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 3,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 4,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 5,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 6,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 7,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 8,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 9,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 10,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 11,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         },
         {
+          "id": 12,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-1"
         }
       ]
     },
@@ -57,52 +93,88 @@
       "title": "Group-2",
       "members": [
         {
+          "id": 13,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 14,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 15,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 16,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 17,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 18,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 19,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 20,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 21,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 22,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 23,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         },
         {
+          "id": 24,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-2"
         }
       ]
     },
@@ -110,52 +182,88 @@
       "title": "Group-3",
       "members": [
         {
+          "id": 25,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 26,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 27,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 28,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 29,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 30,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 31,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 32,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 33,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 34,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 35,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         },
         {
+          "id": 36,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-3"
         }
       ]
     },
@@ -163,52 +271,88 @@
       "title": "Group-4",
       "members": [
         {
+          "id": 37,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 38,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 39,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 40,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 41,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 42,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 43,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 44,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 45,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 46,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 47,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img-1.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         },
         {
+          "id": 48,
           "name": "abcd",
-          "image": "./src/assets/default-image.png"
+          "image": "./src/assets/dummy-img.jpg",
+          "role": "Web Developer",
+          "group": "Group-4"
         }
       ]
     }
