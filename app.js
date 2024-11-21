@@ -6,6 +6,41 @@ const routes = express.Router();
 const nodemailer = require("nodemailer");
 const cors = require("cors");
 const bodyParser = require("body-parser");
+const mysql = require("mysql2/promise");
+const fs = require("fs");
+
+const pool = mysql.createPool({
+  host: "localhost",
+  user: "root",
+  password: "Mysql@1396",
+  database: "dst",
+  waitForConnections: true,
+  connectionLimit: 10,
+  queueLimit: 0,
+});
+
+// import json to sql
+const servicesJsonData = JSON.parse(
+  fs.readFileSync("JSON files/services_data.json", "utf8")
+);
+
+const query = "insert into services (id,title,image,content) values ?";
+const values = servicesJsonData.map((item) => [
+  item.id,
+  item.title,
+  item.image,
+  item.content,
+]);
+
+// pool.query(query, [values], (err, result) => {
+//   if (err) {
+//     console.error("error:", err);
+//   } else {
+//     console.log("data inserted", result);
+//   }
+//   pool.end();
+// });
+// inserted
 
 const app = express();
 app.use(express.json());
@@ -23,6 +58,7 @@ app.use((req, res, next) => {
   next();
 });
 // Mail management
+// Database api creation
 
 const transporter = nodemailer.createTransport({
   service: "gmail",
@@ -34,10 +70,10 @@ const transporter = nodemailer.createTransport({
 app.post("/send-mail", (req, res) => {
   const { Fname, Lname, Contact_number, email, address, message } = req.body;
   const recivers = [
-    "ssudhakaran@datasmarttech.com",
-    "shimagiri@datasmarttech.com",
-    "ssaravanan@datasmarttech.com",
-    "contract@datasmarttech.com",
+    // "ssudhakaran@datasmarttech.com",
+    // "shimagiri@datasmarttech.com",
+    // "ssaravanan@datasmarttech.com",
+    // "contract@datasmarttech.com",
     "thisismemohan@gmail.com",
   ];
   const mailOptions = {
@@ -57,26 +93,76 @@ app.post("/send-mail", (req, res) => {
   });
 });
 
-app.use("/Services", (req, res) => {
-  res.send(services);
-});
-app.get("/Teams", (req, res) => {
-  res.send(Teams);
-});
-app.get("/Teams/:id", (req, res) => {
-  const memberId = Number(req.params.id);
-  let findMember = null;
-  for (const group of Teams.data) {
-    if (Array.isArray(group.members)) {
-      findMember = group.members.find((member) => member.id === memberId);
-      if (findMember) break;
-    }
+// api creation
+// teams
+
+app.get("/departments", async (req, res) => {
+  try {
+    const [departments] = await pool.query(
+      "select members.id,departments.name as department,members.name as member_name,members.role,members.image from members join departments on members.department_id = departments.id order by members.id"
+    );
+    res.json(departments);
+  } catch (error) {
+    console.error(err.message);
+    res.status(500).send("error");
   }
-  if (findMember) {
-    res.json(findMember);
-  } else {
-    res.status(404).json({ message: "member not found" });
+});
+// testimonials
+app.get("/api/testimonials", async (req, res) => {
+  try {
+    const [rows] = await pool.query("SELECT * FROM testimonials");
+    res.json(rows);
+  } catch (err) {
+    console.error(err.message);
+    res.status(500).send("error");
   }
+});
+
+// Services page api
+
+app.get("/Services", async (req, res) => {
+  try {
+    const query = "select * from services";
+    const [services] = await pool.query(query);
+    res.json(services);
+  } catch (err) {
+    console.error(err);
+    res.status(500).send("error");
+  }
+});
+app.get("/member/:id", async (req, res) => {
+  try {
+    const [members] = await pool.query(
+      "select members.id,departments.name as department,members.name as member_name,members.role,members.image from members join departments on members.department_id = departments.id order by members.id"
+    );
+    console.log(members);
+    const memberId = Number(req.params.id);
+    const member = members.find((item) => item.id === memberId);
+    console.log(member);
+    res.json(member);
+  } catch (err) {
+    console.error(err);
+  }
+
+  // const json = res.json(departments);
+  // console.log(Array.isArray(json));
+  // const memberData = Object.keys(departments);
+  // console.log(departments);
+  // const memberId = Number(req.params.id);
+  // const member = departments.find((item) => item.id === memberId);
+  // console.log(departments);
+  // let findMember = null;
+  // for (const group of memberData) {
+  //   if (Array.isArray(group.members)) {
+  //     findMember = group.members.find((member) => member.id === memberId);
+  //     if (findMember) break;
+  //   }
+  // }
+  // if (findMember) {
+  //   res.json(findMember);
+  // } else {
+  //   res.status(404).json({ message: "member not found" });
+  // }
 });
 app.use("/Testimonials", (req, res) => {
   res.send(Testimonials);

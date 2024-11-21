@@ -1,94 +1,92 @@
-{
-  "data": [
-    {
-      "id": "As400",
-      "image": "../src/assets/As400.png",
-      "title": "As/400 Apps",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Coldfusion",
-      "image": "../src/assets/CFML.png",
-      "title": "Cold Fusion, CFML",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Datascience",
-      "image": "../src/assets/python.png",
-      "title": "Data Science, AI ML DL NLP PYTHON",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Marketing",
-      "image": "../src/assets/marketing.png",
-      "title": "Digital N Social Media Marketing",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Oracle",
-      "image": "../src/assets/oracle.png",
-      "title": "Oracle Apps All Modules",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "SAP",
-      "image": "../src/assets/sap.png",
-      "title": "SAP All Modules",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Fullstack",
-      "image": "../src/assets/FS.png",
-      "title": "Full Stack Java, JS,  Hibernate, JSP",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Golang",
-      "image": "../src/assets/golang.png",
-      "title": "GO Lang",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Mainframe",
-      "image": "../src/assets/mainframeapps.svg",
-      "title": "Mainframe Apps Enhancement",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "MERN",
-      "image": "../src/assets/Full-Stack-Development.webp",
-      "title": "MEAN, MERN, MEEN, MEVN Stacks",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "2D",
-      "image": "../src/assets/robot-2d.png",
-      "title": "Robotics 2D",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "RPA",
-      "image": "../src/assets/RPA.png",
-      "title": "Robotics Process Automation RPA",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Sales",
-      "image": "../src/assets/salesforce.webp",
-      "title": "Sales Force, CRM",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Studio",
-      "image": "../src/assets/Rstudio.png",
-      "title": " Statistical Apps, R Studio",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    },
-    {
-      "id": "Web",
-      "image": "../src/assets/web.png",
-      "title": "Web Apps All Kind",
-      "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
-    }
-  ]
-}
+[
+  {
+    "id": "As400",
+    "image": "../src/assets/As400.png",
+    "title": "As/400 Apps",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Coldfusion",
+    "image": "../src/assets/CFML.png",
+    "title": "Cold Fusion, CFML",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Datascience",
+    "image": "../src/assets/python.png",
+    "title": "Data Science, AI ML DL NLP PYTHON",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Marketing",
+    "image": "../src/assets/marketing.png",
+    "title": "Digital N Social Media Marketing",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Oracle",
+    "image": "../src/assets/oracle.png",
+    "title": "Oracle Apps All Modules",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "SAP",
+    "image": "../src/assets/sap.png",
+    "title": "SAP All Modules",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Fullstack",
+    "image": "../src/assets/FS.png",
+    "title": "Full Stack Java, JS,  Hibernate, JSP",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Golang",
+    "image": "../src/assets/golang.png",
+    "title": "GO Lang",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Mainframe",
+    "image": "../src/assets/mainframeapps.svg",
+    "title": "Mainframe Apps Enhancement",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "MERN",
+    "image": "../src/assets/Full-Stack-Development.webp",
+    "title": "MEAN, MERN, MEEN, MEVN Stacks",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "2D",
+    "image": "../src/assets/robot-2d.png",
+    "title": "Robotics 2D",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "RPA",
+    "image": "../src/assets/RPA.png",
+    "title": "Robotics Process Automation RPA",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Sales",
+    "image": "../src/assets/salesforce.webp",
+    "title": "Sales Force, CRM",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Studio",
+    "image": "../src/assets/Rstudio.png",
+    "title": " Statistical Apps, R Studio",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  },
+  {
+    "id": "Web",
+    "image": "../src/assets/web.png",
+    "title": "Web Apps All Kind",
+    "content": "Xecutesmart provides state of the art web solutions including corporate websites, requirement specific web-based applications, ecommerce Store Management and Flash Based Web Solutions in a timely manner and at very competitive prices. We integrate most efficient technology components to make your website paramount in its class. Our experience has given us an edge, and we will effectively bring your idea to life on the web world. Moreover, our constant and improved interaction with our client, coupled with extensive testing and performance measurement criteria leads to faster development and delivery. Xecutesmart believes in Fix Price Shop and provides most affordable rates in comparison to any of its competitors."
+  }
+]
