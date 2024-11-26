@@ -10,10 +10,10 @@ const mysql = require("mysql2/promise");
 const fs = require("fs");
 
 const pool = mysql.createPool({
-  host: "localhost",
-  user: "root",
-  password: "Mysql@1396",
-  database: "dst",
+  host: "103.211.216.223",
+  user: "krisajvk_dst",
+  password: "D=7wFPQ8_P[N",
+  database: "krisajvk_datasmart",
   waitForConnections: true,
   connectionLimit: 10,
   queueLimit: 0,
@@ -120,16 +120,24 @@ app.get("/api/testimonials", async (req, res) => {
 
 // Services page api
 
-app.get("/Services", async (req, res) => {
-  try {
-    const query = "select * from services";
-    const [services] = await pool.query(query);
-    res.json(services);
-  } catch (err) {
-    console.error(err);
-    res.status(500).send("error");
-  }
+// app.get("/Services", async (req, res) => {
+//   try {
+//     const query = "select * from services";
+//     const [services] = await pool.query(query);
+//     res.json(services);
+//   } catch (err) {
+//     console.error(err);
+//     res.status(500).send("error");
+//   }
+// });
+
+// services page details
+
+app.get("/Services", (req, res) => {
+  res.send(services);
 });
+
+// member details
 app.get("/member/:id", async (req, res) => {
   try {
     const [members] = await pool.query(
