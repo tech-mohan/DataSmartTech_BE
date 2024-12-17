@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Christmas",
+    "date": "25.12.2024",
+    "images": [
+      "../src/assets/events/christmas-1.jpg",
+      "../src/assets/events/christmas-2.jpg",
+      "../src/assets/events/christmas-3.jpg"
+    ]
+  },
+
+  {
+    "name": "New Year",
+    "date": "01.01.2025",
+    "images": [
+      "../src/assets/events/newyear-1.jpg",
+      "../src/assets/events/newyear-2.jpg",
+      "../src/assets/events/newyear-3.jpg"
+    ]
+  },
+  {
+    "name": "Pongal",
+    "date": "14.01.2025",
+    "images": [
+      "../src/assets/events/pongal-1.jpg",
+      "../src/assets/events/pongal-2.jpg",
+      "../src/assets/events/pongal-3.jpg"
+    ]
+  },
+  {
+    "name": "Diwali",
+    "date": "20.10.2025",
+    "images": [
+      "../src/assets/events/diwali-1.jpg",
+      "../src/assets/events/diwali-2.jpg",
+      "../src/assets/events/diwali-3.jpg"
+    ]
+  }
+]

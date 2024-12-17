@@ -2,6 +2,7 @@ const express = require("express");
 const services = require("D:/DST/data_smart_tech_BE/JSON files/services_data.json");
 const Teams = require("./JSON files/Teams/Teams.json");
 const Testimonials = require("./JSON files/Testimonials.json");
+const events = require("./JSON files/events.json");
 const routes = express.Router();
 const nodemailer = require("nodemailer");
 const cors = require("cors");
@@ -174,6 +175,12 @@ app.get("/member/:id", async (req, res) => {
 });
 app.use("/Testimonials", (req, res) => {
   res.send(Testimonials);
+});
+
+// events
+
+app.get("/Events", (req, res) => {
+  res.send(events);
 });
 
 app.listen(8000, () => {

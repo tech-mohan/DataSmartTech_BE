@@ -1,17 +1,59 @@
 [
   {
     "id": "As400",
-    "image": "../src/assets/As400.png",
+    "image": "../src/assets/services/As400.jpg",
     "title": "As/400 Apps",
     "overview": "AS/400 (Application System/400) is a mid-range computer system developed by IBM, released in 1988. It's known for its reliability, security, and ease of use.",
-    "Key_features": "Integrated hardware and software,Object-based architecture,Menu-driven interface,Support for multiple programming languages (RPG, COBOL, C),Robust database management (DB2)",
-    "Models": " B10 , B20 , B30 (early models)& 150, 170, 180 (mid-range)& 200, 250, 300 (high-end)& AS/400e (enhanced models)&iSeries (rebranded AS/400)",
-    "Operating_Systems": "OS/400 (original),i5/OS (rebranded),IBM i (current)",
-    "Programming_Languages": "RPG (Report Program Generator), COBOL (Common Business Oriented Language), C,Java, CL (Control Language)",
-    "Applications": "ERP (Enterprise Resource Planning),CRM (Customer Relationship Management),Accounting and finance,Manufacturing and logistics,Retail and point-of-sale",
-    "Benefits": "Reliability and uptime,Security features,Easy to learn and use,Scalable and flexible,Cost-effective",
-    "Limitations": "Legacy technology,Limited web development capabilities,Not ideal for graphics-intensive applications,Limited mobile support",
-    "Replacement": "IBM Power Systems,IBM iSeries,Cloud-based solutions (AWS, Azure),Modern ERP systems (SAP, Oracle)",
-    "Job_Roles": "AS/400 Administrator ,RPG Programmer ,COBOL Developer ,System Analyst ,IT Manager"
+    "Key_features": "Integrated hardware and software & Object-based architecture & Menu-driven interface & Support for multiple programming languages (RPG, COBOL, C) & Robust database management (DB2)",
+    "Applications": "ERP (Enterprise Resource Planning),CRM (Customer Relationship Management),Accounting and finance,Manufacturing and logistics,Retail and point-of-sale"
+  },
+  {
+    "id": "Coldfusion",
+    "image": "../src/assets/services/CFML.JPG",
+    "title": "Cold Fusion, CFML",
+    "overview": "ColdFusion CFML (ColdFusion Markup Language) is a scripting language used for developing web applications, particularly with Adobe ColdFusion.",
+    "Key_features": "Rapid web application development & Script-based language (CFML) & Object-oriented programming (OOP) support & Integration with databases (relational and NoSQL) & Robust security features & Support for web servicess (SOAP, REST) & Built-in ORM (Object-Relational Mapping)"
+  },
+  {
+    "id": "Datascience",
+    "image": "../src/assets/services/DS.jpg",
+    "title": "Data Science",
+    "overview": "Data science is an interdisciplinary field that combines aspects of computer science, statistics, and domain-specific knowledge to extract insights and knowledge from data.",
+    "Key_features": "Data collection and preprocessing & Data visualization and exploration & Statistical modeling and machine learning & Data mining and pattern discovery & Communication and presentation of results"
+  },
+  {
+    "id": "AI",
+    "image": "../src/assets/services/AI.jpg",
+    "title": "Artificial intelligence",
+    "overview": "AI (Artificial Intelligence) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions.",
+    "Key_features": " AI systems can analyze complex data, identify patterns, and make decisions or recommendations based on that analysis. & AI systems can operate independently, making decisions and taking actions without human intervention, enabling applications like autonomous vehicles, drones, and robots."
+  },
+  {
+    "id": "ML",
+    "image": "../src/assets/services/ML.jpg",
+    "title": "Machine Learning",
+    "overview": "Machine Learning (ML) is a subset of Artificial Intelligence (AI) that involves training algorithms to learn from data and make predictions or decisions without being explicitly programmed.",
+    "Key_features": "Machine learning helps computers learn from data instead of being manually programmed. & It automates tasks like identifying patterns and making decisions.& It can handle large amounts of data efficiently.& ML models get better as they learn from more data.& It’s used in many areas like healthcare, finance, and online servicess."
+  },
+  {
+    "id": "DL",
+    "image": "../src/assets/services/DL.jpg",
+    "title": "Deep Learning",
+    "overview": "Deep  Learning is a subset of Machine Learning that involves the use of artificial neural networks to analyze and interpret data.",
+    "Key_features": "Neural Networks & Deep Neural Networks & Convolutional Neural Networks (CNNs) & Recurrent Neural Networks (RNNs) & Long Short-Term Memory (LSTM) Networks & Autoencoders & Generative Adversarial Networks (GANs)"
+  },
+  {
+    "id": "NLP",
+    "image": "../src/assets/services/NLP.jpg",
+    "title": "NLP                    (Natural Language Processing)",
+    "overview": "NLP is a subfield of Artificial Intelligence (AI) that deals with the interaction between computers and humans in natural language.",
+    "Key_features": "Text Preprocessing & Tokenization & Stemming and Lemmatization & Part-of-Speech (POS) Tagging & Named Entity Recognition (NER) & Sentiment Analysis & Machine Translation"
+  },
+  {
+    "id": "Python",
+    "image": "../src/assets/services/python.jpg",
+    "title": "Python",
+    "overview": "Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, scientific computing, data analysis, artificial intelligence, and more.",
+    "Key_features": "Easy to learn and use & High-level language & Interpreted language & Object-oriented programming & Large standard library & Dynamic typing & Cross-platform compatibility"
   }
 ]
