@@ -55,5 +55,90 @@
     "title": "Python",
     "overview": "Python is a high-level, interpreted programming language that is widely used for various purposes such as web development, scientific computing, data analysis, artificial intelligence, and more.",
     "Key_features": "Easy to learn and use & High-level language & Interpreted language & Object-oriented programming & Large standard library & Dynamic typing & Cross-platform compatibility"
+  },
+
+  {
+    "id": "Marketing",
+    "image": "../src/assets/services/Marketing.jpg",
+    "title": "Digital N Social Media Marketing",
+    "overview": "Digital marketing encompasses a broad range of online marketing activities beyond social media, including websites, email, SEO, PPC and more."
+  },
+  {
+    "id": "Oracle",
+    "image": "../src/assets/services/oracle.jpg",
+    "title": "Oracle Apps All Modules",
+    "overview": "It is one of the most popular relational database engines in the IT market for storing, organizing, and retrieving data.Oracle database was the first DB that designed for enterprise grid computing and data warehousing."
+  },
+  {
+    "id": "SAP",
+    "image": "../src/assets/services/SAP.jpg",
+    "title": "SAP All Modules",
+    "overview": "SAP modules are business management software used to collect, store, manage, and interpret data from many functional areas. These modules are individual software components that address specific business functions or processes."
+  },
+  {
+    "id": "Fullstack",
+    "image": "../src/assets/services/Fullstack.jpg",
+    "title": "Fullstack Java, JS, Hibernate, JSP",
+    "overview": "Java is used to code a wide range of applications, including mobile apps, enterprise software, big data applications, and server-side technologies"
+  },
+  {
+    "id": "Golang",
+    "image": "../src/assets/services/Golang.jpg",
+    "title": "Golang",
+    "overview": "Golang is a procedural and statically typed programming language having the syntax similar to C programming language. Sometimes it is termed as Go Programming Language. "
+  },
+  {
+    "id": "Mainframe",
+    "image": "../src/assets/services/mainframe.jpg",
+    "title": "Mainframe Apps Enhancement",
+    "overview": "Mainframe computers and their services are critical for governments and large organizations owing to their capability of processing bulk data more efficiently as well as data security features."
+  },
+  {
+    "id": "MEAN",
+    "image": "../src/assets/services/MEAN.jpg",
+    "title": "MEAN Stack",
+    "overview": "The MEAN stack is a JavaScript-based framework for developing scalable web applications. The term MEAN is an acronym for MongoDB, Express, Angular, and Node — the four key technologies that make up the layers of the technology stack"
+  },
+  {
+    "id": "MERN",
+    "image": "../src/assets/services/MERN.jpg",
+    "title": "MERN Stack",
+    "overview": "The MERN stack is an open source–centric collection of technologies that uses JavaScript for both the browser and server sides of a web application. MERN is an acronym for the four technologies that form the stack: MongoDB, Express, React, and Node. js."
+  },
+  {
+    "id": "MEVN",
+    "image": "../src/assets/services/MEVN.jpg",
+    "title": "MEVN Stack",
+    "overview": "MEVN Stack is a JavaScript technology stack that contains four separate programs for building website and mobile applications. The MEVN Stack comprises MongoDB, Express. js, VueJS, and Node. js."
+  },
+  {
+    "id": "2D",
+    "image": "../src/assets/services/2D.jpg",
+    "title": "Robotics 2D",
+    "overview": "Robotics is a field that combines engineering, science, and technology to create machines that can perform tasks in place of or in addition to humans."
+  },
+  {
+    "id": "RPA",
+    "image": "../src/assets/services/RPA.jpg",
+    "title": "Robotics Process Automation",
+    "overview": "Robotic Process Automation (RPA) is a software technology that uses software robots to automate repetitive tasks that humans typically perform."
+  },
+  {
+    "id": "Sales",
+    "image": "../src/assets/services/sales.jpg",
+    "title": "Salesforce, CRM",
+    "overview": "Salesforce is a cloud-based customer relationship management (CRM) software that helps companies build customer relationships and improve productivity."
+  },
+  {
+    "id": "Studio",
+    "image": "../src/assets/services/apps.jpg",
+    "title": "Statical Apps, R Studio",
+    "overview": "R Studio provides a user-friendly interface that organizes windows, and includes features like code completion, syntax highlighting, and graph and table previews. RStudio also integrates with other software tools, such as Git for version control and Quarto for document authoring"
+  },
+  {
+    "id": "Web",
+    "image": "../src/assets/services/web.jpg",
+    "title": "Web Apps, All Kind",
+    "overview": "A web app, or web application, is software that runs in a web browser and allows users to interact with a remote server. Web apps are designed to be interactive, allowing users to: Log in to an account, Make payments, and Send and consume data. "
   }
 ]
